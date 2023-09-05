@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🎓 I'm a fourth year Computer Science Student in Cadiz's University.<br>⚽ In my free time, I do scuba diving.
+🎓 I'm a fourth year Computer Science Student in Cadiz's University.<br>🤿 In my free time, I do scuba diving.
 
 ## 💻 Tecnologies
 <div>
